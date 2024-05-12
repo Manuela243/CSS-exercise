@@ -1,0 +1,23 @@
+.odd.class{
+    background-color: #fc6c9a;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+/*Chained all classes with specific name for easier use*/
+/*Used HEX*/
+
+.third {
+    font-size: 24px;
+}
+
+#number2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+/*Used RGB*/
+
+#number4 {
+    background: hsl(129 100% 76%);
+    font-size: 24px;
+    font-weight: bold;
+}
+/*Used HSL*/
