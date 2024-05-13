@@ -1,4 +1,4 @@
-# CSS exercises from Odin Journey
+# CSS exercises from Odin Project
 
 - This is to show while doing an exercise from Odin Journey on my knowledge and attempt of using CSS and HTML
 # Exercise 1
