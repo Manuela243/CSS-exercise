@@ -9,3 +9,5 @@
 - In this exercise I showed the way to easily group classes for easier CSS use.
 # Exercise 4
 - In this exercise I showed how to style img with using different class names, to easily separate them, for easier CSS use
+# Exercise 5
+- In this exercise I showed how to style with CSS while using descendant combinators.
