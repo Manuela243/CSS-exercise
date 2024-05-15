@@ -11,3 +11,5 @@
 - In this exercise I showed how to style img with using different class names, to easily separate them, for easier CSS use
 # Exercise 5
 - In this exercise I showed how to style with CSS while using descendant combinators.
+# Exercise 6
+- We had premade HTML and CSS files in which we had to change the order of data in CSS file, without changing anything in HTML file. I used rules of specificity and rule order.
