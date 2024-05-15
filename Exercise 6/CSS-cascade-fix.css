@@ -6,26 +6,28 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  .para,
-  .small-para {
+  p {
     color: hsl(0, 0%, 0%);
     font-weight: 800;
   }
-  
+/*Changed class into an element p*/
+
+  .para {
+    font-size: 22px;
+  }
+  /*Changed the position of class .para, placed it before .small-para class*/
+
   .small-para {
     font-size: 14px;
     font-weight: 800;
   }
   
-  .para {
-    font-size: 22px;
-  }
-  
-  .confirm {
+  #confirm-button {
     background: green;
     color: white;
     font-weight: bold;
   } 
+/*Changed to ID*/
   
   .button {
     background-color: rgb(255, 255, 255);
@@ -33,14 +35,18 @@ body {
     font-size: 20px;
   }
   
-  .child {
+  div {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 100;
+  }
+/*Changed position of div, since this is a case of inheritance
+I have put it in front/up from the child class*/
+  
+  .text .child {
     color: rgb(0, 0, 0);
     font-weight: 800;
     font-size: 14px;
   }
   
-  div.text {
-    color: rgb(0, 0, 0);
-    font-size: 22px;
-    font-weight: 100;
-  }
+  
