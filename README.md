@@ -13,3 +13,6 @@
 - In this exercise I showed how to style with CSS while using descendant combinators.
 # Exercise 6
 - We had premade HTML and CSS files in which we had to change the order of data in CSS file, without changing anything in HTML file. I used rules of specificity and rule order.
+
+# Margin and padding exercise 1
+- Had to change their premade CSS file without touching the HTML file (added pitcure and link of the result and exercise itself) by changing the margin and padding
