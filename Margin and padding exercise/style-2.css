@@ -49,3 +49,7 @@ body {
 
   /*Changed display to block element for it to be on its own and in its own
   line*/
+
+  a {
+    display: block;
+  }
