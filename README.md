@@ -17,7 +17,7 @@
 # Margin and padding exercise 1
 - Had to change their premade CSS file without touching the HTML file (added pitcure and link of the result and exercise itself) by changing the margin and padding
 
-#Margin and padding exercise 2
+# Margin and padding exercise 2
 - Had a complete HTML and CSS and had to change margin, padding and border to match the provided pitcure
 - I learned to use Chrome Dev Tools to inspect computed layout, to easily resize and add margin, border or padding
 - Used knowledge of display and block and inline elements
