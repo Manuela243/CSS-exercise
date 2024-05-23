@@ -33,12 +33,16 @@ body {
   .button-container {
     background: #e3f4ff;
     text-align: center;
+    font-size: 20px;
   }
   
   button {
     background: white;
     border: 1px solid #eee;
+    display: block;
+    margin: 10px 140px 0px;
+    padding: 5px 15px;
   }
-  
+
   /*Changed display to block element for it to be on its own and in its own
   line*/
